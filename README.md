@@ -19,6 +19,6 @@ A continuación se muestra un ejemplo de código en C que imprime "Hola, mundo" 
 #include <stdio.h>
 
 int main() {
-    printf("Hola, mundo\n");
+    printf("ya se efectuaron los cambios correctamente\n");
     return 0;
 }
